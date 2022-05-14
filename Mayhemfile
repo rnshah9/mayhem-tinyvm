@@ -2,4 +2,4 @@ project: rnshah9/mayhem-tinyvm
 target: tvmi
 
 cmds:
-  - cmd: /repo/bin/tvmi @@
+  - cmd: /repo/bin/tdb @@
